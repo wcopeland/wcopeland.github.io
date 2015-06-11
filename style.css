@@ -139,7 +139,7 @@ input::-moz-placeholder {  color: #cccccc; font-style: oblique; }
 input:-ms-input-placeholder {  color: #cccccc; font-style: oblique; }
 
 #home-panel-wrapper {
-	border-bottom: 2px solid #ffffff;
+	/*border-bottom: 2px solid #ffffff;*/
 	background-color: rgba(0,82,165,1);
 	padding: 20px;
 }
