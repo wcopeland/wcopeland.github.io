@@ -1,0 +1,17 @@
+111,96,201		6F60C9		Muted Medium Purple
+4,14,87			040E57		Navy
+2,46,97			022E61		Muted Dark Blue
+3,108,176		036CB0		Muted Medium Blue
+3,138,224		038AE0		Muted Medium-Light Blue
+122,21,36		7A1524		Brick Red
+181,31,54		B51F36		Cherry Red
+250,169,189		FAA9BD		Pink
+
+
+
+158,231,250		Light Blue
+65,179,247		Medium Blue
+0,82,165		Navy
+0,65,89			Muted Dark Blue
+154,147,236		Purple 1
+140,101,211		Purple 2
